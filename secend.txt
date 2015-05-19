@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 my first Line
+=======
+my first Line in u2
+>>>>>>> 2af6b8ae0043fdb7044b01340794302b901edfb4
